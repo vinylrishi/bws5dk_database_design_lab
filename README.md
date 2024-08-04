@@ -57,7 +57,7 @@ Below is a link to the current EDR for the project. There is also a PNG copy in 
 
 https://dbdiagram.io/d/UVA-SDS-Online-MSDS-Program-Database-2021-66ad93668b4bb5230e1abc3e   
 
-![ERD](https://github.com/vinylrishi/database_design_lab/blob/main/UVA%20SDS%20Online%20MSDS%20Program%20Database%202021.png)  
+![ERD](https://github.com/vinylrishi/bws5dk_database_design_lab/blob/main/UVA%20SDS%20Online%20MSDS%20Program%20Database%202021.png)
 
 **9.) Suppose you were asked if your database could also support the UVA SDS Residential MSDS Program. Explain any issues that might arise, changes to the database structure (schema), and new data that might be needed. Note you won’t actually need to support this use case for the project.**  
 
