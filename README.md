@@ -68,7 +68,11 @@ https://dbdiagram.io/d/UVA-SDS-Online-MSDS-Program-Database-2021-66ad93668b4bb52
 - Timelines will differ between the cohorts, so learning objectives may differ as well. This shouldn't cause an issue if the Learning_Objectives table has a means to distinguish the course type (either through adjsuted course_id's, or an added learning format field).
 
   
-
+## Part 2
+- There is now a "data" folder in the repo that contains all the CSVs and the notebook that created them. The raw excel data was slighly adjusted manually to be more reaedable for pandas. The data frames imported from the sheets were slightly manipulated within the notebook before being exported as CSVs. 
+- The final ERD based CSVs containing the 5 major tables descirbed in Part 1 were uploaded to Snowflake and queries to answer the 11 questions in Part 2.
+- See here a link to the Snowflake SQL workbook: https://app.snowflake.com/adilksi/fqa59308/w2MhJpGrX8Sa#query.
+- A copy of the SQL code (db_design.sql) is also added to the root of the repo.
 
 
 
