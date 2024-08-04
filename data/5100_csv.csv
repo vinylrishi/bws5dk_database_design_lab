@@ -1,0 +1,35 @@
+MNEMONIC,LEARNING OUTCOME
+ds5100,Basic Dataframe operations (Python and R)
+ds5100,Clone a repo on GitHub
+ds5100,Confidently work in an appropriate programming environment (IDE)
+ds5100,Confidently write a class and call its methods to simulate a scenario
+ds5100,Confidently write and call functions in both Python and R
+ds5100,Correctly pass parameters and retrieve function output(s)
+ds5100,"Data structures (e.g., sequences and collections: set, list, dict, tuple)"
+ds5100,Demonstrate how methods are inherited from base classes
+ds5100,"Essential primitives (e.g., bool, int, float)"
+ds5100,Find and utilize resources including online documentation
+ds5100,"I/O: at least three different formats, including csv, txt, JSON"
+ds5100,Identify and utilize primitive data types and data structures [Built in]
+ds5100,Import data into a Pandas Dataframe
+ds5100,Incorporating some exception handling
+ds5100,"NumPy, Pandas (essentials)"
+ds5100,Patch/debug broken code
+ds5100,Patch/debug code using in-line testing and unit testing (advanced)
+ds5100,"Perform sensitivity analysis on functions (e.g., changing inputs and measuring impact on outputs)"
+ds5100,Perform simple mathematical calculations (Python and R)
+ds5100,R: Apply the Tidyverse Pipe operator to aggregate data
+ds5100,"R: Apply the Tidyverse verbs, such as: select(), filter(), arrange(), mutate(), summarize()"
+ds5100,R: data types
+ds5100,R: Demonstrate use of element-wise operations
+ds5100,"R: essential built-in functions like head(), tail(), rbind(), table(), summary(), str()"
+ds5100,R: get started in RStudio and navigate around
+ds5100,R: save code in an R script
+ds5100,R: vectorization
+ds5100,Read and Write to and from various data formats
+ds5100,Read code on GitHub
+ds5100,Select and apply an appropriate data structure based on the problem requirements
+ds5100,Use a program API to utilize existing functions (e.g. assert statements.)
+ds5100,"Using program API to utilize existing functions (e.g. sorting, searching, assert statements, etc.)"
+ds5100,Utilize and implement add-on numerical packages to augment existing data structures
+ds5100,Write robust code by implementing the basic principles of program testing and debugging

@@ -1,0 +1,39 @@
+MNEMONIC,LEARNING OUTCOME
+ds5110,Execute distributed computing frameworks using MapReduce and Spark 
+ds5110,"Demonstrate knowledge of applications for big data storage, retrieval, processing, and modeling using Amazon AWS, Hive, and others from the Hadoop ecosystem "
+ds5110,"Implement PySpark for prevalent data science tasks, including data analysis and machine learning"
+ds5110,Execute an end-to-end predictive modeling project using a large dataset
+ds5110,"Delineate Spark basic architecture and functionality.
+"
+ds5110,Apply RDDs and Pair RDDs in data analysis tasks
+ds5110,Apply DataFrames in data analysis tasks
+ds5110,Apply Spark SQL to data analysis tasks
+ds5110,Demonstrate how to preprocess data in PySpark
+ds5110,Identify the basics of the MLlib library in PySpark
+ds5110,Implement classification models in MLlib
+ds5110,Identify the statistics functionality in MLlib
+ds5110,Implement regression models in MLlib
+ds5110,Examine the alternating least squares algorithm
+ds5110,Implement recommender systems in PySpark using collaborative filtering
+ds5110,Execute the feature utilities package in ML
+ds5110,Construct machine learning pipelines
+ds5110,Apply dimension reduction techniques using PySpark
+ds5110,Execute model selection and tuning in PySpark
+ds5110,Distinguish the use and benefits of accumulators and broadcast variables
+ds5110,Build machine learning tools for the supervised learning task
+ds5110,Use hyperparameter tuning in Spark
+ds5110,Understand the concepts behind HDFS
+ds5110,Understand the concepts behind Hive.
+ds5110,Have some familiarity with running PySpark in a Databricks notebook
+ds5110,"Understand how EC2 and S3 are used for computing and storage, respectively"
+ds5110,Demonstrate the steps for configuring and launching an AWS EC2 instance
+ds5110,Understand the capabilities of Amazon Glue and Athena
+ds5110,Understand the concepts and use cases behind Apache Kafka
+ds5110,Create and configure an Amazon S3 bucket
+ds5110,Apply the concepts behind streaming systems
+ds5110,Execute the Spark Streaming library
+ds5110,Compute analytics using Spark Streaming
+ds5110,Explain the properties of data lakes and data lakehouses
+ds5110,"Explain the shortcomings of data lakes, and how data lakehouses address these shortcomings"
+ds5110,"Work with Apache Delta lakes to implement their salient features (create, delete, update, conditional update, time travel)"
+ds5110,Implement GraphX and GraphFrames in Spark

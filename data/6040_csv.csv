@@ -1,0 +1,38 @@
+MNEMONIC,LEARNING OUTCOME
+ds6040,Probability review
+ds6040,Use the elements of Bayes theorem in problem solving
+ds6040,Use univariate conjugate priors to analytically obtain the posterior distribution
+ds6040,Use multivariate conjugate priors to analytically obtain the posterior distribution
+ds6040,Use non-informative priors to analytically obtain the posterior distribution
+ds6040,Formulate real problems using the fundamentals of statistical decision theory
+ds6040,Apply the principles of statistical decision theory to obtain the optimal solutions to classification problems
+ds6040,Develop approximate solutions when the required assumptions for optimality in classification are not met
+ds6040,Apply the principles of statistical decision theory to obtain the optimal solutions to regression problems
+ds6040,Formulate a graphical representation of a joint distribution using nodes to represent conditional probabilities
+ds6040,Display Bayesian models using graphs
+ds6040,Represent generative models using graphs
+ds6040,Apply graphical methods to real problems in text analysis
+ds6040,Apply simple sampling methods to approximate distributions
+ds6040,Devise Markov models for real problems with conditional dependence
+ds6040,Formulate the Markov Chain Monte Carlo (MCMC) approaches to sampling
+ds6040,Apply MCMC to real and complex problems in Bayesian inference
+ds6040,Apply MCMC to real and complex problems in classifications.
+ds6040,Apply MCMC to real and complex problems in regressions
+ds6040,Use Bayes factors for model selection
+ds6040,Formulate and use hierarchical models on real problems
+ds6040,Use information criteria for model selection
+ds6040,Formulate and use Bayesian model averaging on real problems
+ds6040,Apply the expectation-maximization (EM) algorithm to problems in unsupervised learning
+ds6040,Formulate problems with latent variables
+ds6040,Formulate problems for solution by the EM algorithm
+ds6040,Use Laplacian approximation to estimate probabilities in complex problems
+ds6040,Formulate a variational approximation for a Bayesian inference problem
+ds6040,Apply variational inference to problems with analytic solutions for comparisons of results
+ds6040,Represent variational inference using the EM algorithm
+ds6040,Use optimization methods to obtain solutions for variational approximations to real problems
+ds6040,Apply evaluation methods to assess the performance of optimizations to obtain variational approximations
+ds6040,Apply Markov random field models to represent problems in Bayesian machine learning
+ds6040,Formulate Hidden Markov Model (HMM) solution strategies
+ds6040,Apply HMMs to problems in data science
+ds6040,Identify the range of applicability of methods from Bayesian machine learning to real problems in data science.
+ds6040,Connect the many concepts discussed in the course to provide a foundation for continued learning

@@ -1,0 +1,14 @@
+MNEMONIC,LEARNING OUTCOME
+stat6021,Use regression analysis to answer questions of interest in a wide variety of application environments
+stat6021,Determine the most appropriate regression model for a given data set
+stat6021,Identify the assumptions and limitations of a given regression model
+stat6021,Diagnose and remedy common problems with the regression model found in real data
+stat6021,Work with various data structures and primitive data types in the R programming language
+stat6021,"Process R dataframes into the forms necessary for subsequent analysis including subsetting by rows, columns, condition, changing column names, removing missing values, combining dataframes with vectors"
+stat6021,Use the appropriate numerical and graphical summaries based on the question of interest and type of data
+stat6021,Use the statistical software R for regression analysis
+stat6021,State appropriate context-specific conclusions from an analysis
+stat6021,"Present and discuss orally and in writing, statistical ideas, methods, and results to lay and professional audiences"
+stat6021,Work in teams to demonstrate the skills of a professional statistician in organizing and managing projects
+stat6021,Describe the mathematical framework of regression models
+stat6021,Describe the importance of assessing the assumptions and limitations for a given regression model

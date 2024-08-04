@@ -1,0 +1,9 @@
+MNEMONIC,LEARNING OUTCOME
+ds5001,Understand and use language models such as bag of words
+ds5001,Understand and use vector space models
+ds5001,Understand how to measure similarity between documents
+ds5001,Understand how Principal Component Analysis (PCA) works
+ds5001,Understand and use topic models such as Latent Dirichlet Allocation (LDA)
+ds5001,Understand and use word embedding such as glove and word2vec
+ds5001,Understand and use sentiment analysis such as VADER
+ds5001,Understand and use Naive Bayes classification

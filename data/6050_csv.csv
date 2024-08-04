@@ -1,0 +1,25 @@
+MNEMONIC,LEARNING OUTCOME
+ds6050,"Create an end-to-end machine learning project at scale using open-source libraries such as NumPy, Keras, TensorFlow, and Google Cloud"
+ds6050,"Formulate various supervised, unsupervised, and reinforcement learning models"
+ds6050,"Apply practical skill sets on designing, deploying, and analyzing deep network architectures on complex real-world problems"
+ds6050,"Use NumPy to describe, identify, and process multi-dimensional arrays and matrices."
+ds6050,Identify the components of linear algebra most relevant to deep learning.
+ds6050,Summarize numerical concerns for implementations of deep learning algorithms.
+ds6050,Design a simple architecture of a multilayer perceptron (MLP).
+ds6050,Understand how to design different activation functions to solve the vanishing/exploding gradient problem
+ds6050,"Formulate several forms of regularization strategies to create a large, deep, regularized model"
+ds6050,Review applications of convolutional neural networks (CNNs)
+ds6050,Study the basics of recurrent neural networks (RNNs)
+ds6050,Explore the shortcomings of basic RNNs and how to alleviate them with long short-term memory (LSTM) cells
+ds6050,Investigate in-depth how autoencoders work and how to use them for dimensionality reduction and feature extraction
+ds6050,Interpret hidden latent variables using perturbation and generate new examples
+ds6050,"Explain the training process of adversarial neural networks (GANs), where two neural networks compete against each other, and its difficulties"
+ds6050,Explore various applications of GANs and their recent advances
+ds6050,Explore the basic components of reinforcement learning (RL) including the Markov decision process (MDP)
+ds6050,Learn to solve for the optimal state-action value by using Q-Learning and Deep Q-Networks (DQNs)
+ds6050,"Examine policy gradients (PGs) to directly optimize the policy, as well as a hybrid method called actor critic advantage"
+ds6050,Understand how to deploy models to TF Serving and then scale up to Google Cloud AI Platform
+ds6050,"Deploy models to mobile apps, embedded devices, and web apps"
+ds6050,Understand how adversarial attacks work
+ds6050,Explore bias in data and algorithms
+ds6050,Analyze the issues in uncertainty estimation

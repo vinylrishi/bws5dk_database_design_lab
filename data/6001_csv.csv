@@ -1,0 +1,11 @@
+MNEMONIC,LEARNING OUTCOME
+ds6001,Recognize how to get help with coding in a way that is accurate and efficient while demonstrating how to be a good citizen in online forums
+ds6001,"Implement methods for acquiring electronic data in many formats: csv, flat files, json, from APIs, and using web scraping, and loading it into Python"
+ds6001,"Understand the purpose, typology, and language of relational databases"
+ds6001,"Understand the purpose, typology, and language of NoSQL databases"
+ds6001,"Understand how to implement databases Python: SQLite, PostgreSQL, MySQL, MongoDB"
+ds6001,Understand how to query databases with SQL 
+ds6001,Understand how to query databases with the MongoDB query language
+ds6001,"Employ methods for wrangling, joining, and aggregating data using pandas"
+ds6001,"Understand relationships in data using summary statistics, hypothesis tests, measurement models"
+ds6001,"Understand relationships in data using visualization with matplotlib, seaborn, plotly"

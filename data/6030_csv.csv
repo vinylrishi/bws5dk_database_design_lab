@@ -1,0 +1,20 @@
+MNEMONIC,LEARNING OUTCOME
+ds6030,Build classification and regression models for a given data set using R statistical software
+ds6030,Explain the statistical theory used in data mining that affects how each type of model makes predictions
+ds6030,"For a given data set and model, determine the optimal algorithmic parameters to customize the results of the model based on practical goals"
+ds6030,"Evaluate the performance of a model in terms of various factors such as accuracy, computational cost, interpretability, and practical requirements"
+ds6030,Determine the most appropriate algorithm for a given data set based on the needs of the user
+ds6030,Use visualization techniques to help users understand and interpret the data mining results
+ds6030,Implement KNN regression and classification models in R
+ds6030,Build linear and nonlinear regression models in R
+ds6030,Evaluate bias-variance tradeoff of linear regression method
+ds6030,"Implement LR, LDA, and QDA classification in R"
+ds6030,Implement cross-validation
+ds6030,Understand the theory behind principal components
+ds6030,Use principal components transformation to visualize data
+ds6030,"Use regularization (shrinkage, PCA, lasso) to improve regression accuracy"
+ds6030,Build a CART in R and use for both classification and regression
+ds6030,Build a random forest (RF) for classification and for regression in R
+ds6030,Use an SVM for classification and regression in R
+ds6030,Use K-Means clustering to explore new data in R
+ds6030,Use hierarchical clustering to create and evaluate clusters in R
